@@ -12,8 +12,8 @@ klaviyo_api_key = os.getenv("KLAVIYO_API_KEY")
 klaviyo = KlaviyoAPI(klaviyo_api_key)
 
 # List IDs
-master_lists = ["SWePvX", "UseGeA"]
-marketing_lists = ["SW64ZT", "Y75FNz", "ThUTMt", "SwqM57", "RzfgFB", "TdHDBZ", "VcWhXq", "SquZfN", "Whfxtt"]
+master_lists = ["asdfasdf", "3g535g"]
+marketing_lists = ["ergheth", "rtherhth", "wrthreth", "wthwhtrwh", "wtehwtht", "wethwth", "wethweth", "34tqradf", "EFWAF4WF"]
 
 def fetch_list_profiles(list_id: str, output_file: str) -> Set[str]:
     """
