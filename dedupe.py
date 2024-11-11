@@ -13,7 +13,7 @@ klaviyo = KlaviyoAPI(klaviyo_api_key)
 
 # List IDs
 master_lists = ["asdfasdf", "3g535g"]
-marketing_lists = ["ergheth", "rtherhth", "wrthreth", "wthwhtrwh", "wtehwtht", "wethwth", "wethweth", "34tqradf", "EFWAF4WF"]
+marketing_lists = ["ergheth", "rtherhth", "wrthreth", "wthwhtrwh", "wtehwtht", "wethwth", "wethweth", "34tqradf", "EFWAF4W"]
 
 def fetch_list_profiles(list_id: str, output_file: str) -> Set[str]:
     """
